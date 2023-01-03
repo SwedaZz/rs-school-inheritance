@@ -1,3 +1,5 @@
+// ES5 version
+
 function BuilderES5 (str) {
     this.str = str;
 }
