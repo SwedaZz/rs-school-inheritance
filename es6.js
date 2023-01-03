@@ -1,3 +1,5 @@
+// ES6 version
+
 class BuilderES6 {
     constructor(integer) {
         this.integer = integer || 0;
